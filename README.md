@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohampadhye
+- 👋 Hi, I’m Soham Padhye
 - 👀 I’m interested in Computer Vision, Machine Learning, AI and Autonomous Vehicles.
 - 🌱 I’m currently learning data structures and algo, opencv , c++.
 - 💞️ I’m looking to collaborate on projects related to computer Vision
